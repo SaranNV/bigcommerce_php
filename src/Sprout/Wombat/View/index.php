@@ -134,9 +134,9 @@ $webhooks = array(
 ?>
 
 <div class="block api_connection_info" style="display:none;">
-	<label><span>Username:</span><input type="text" name="api_username" value="athleticapi" placeholder="athleticapi"></label>
-	<label><span>Path:</span><input type="text" name="api_path" value="https://store-pijlvyhy.mybigcommerce.com/api/v2/" placeholder="https://store-pijlvyhy.mybigcommerce.com/api/v2/"></label>
-	<label><span>Token:</span><input type="text" name="api_token" value="d1ee45ad7d4a7c7c97b102eea8fd9663bb7ce9c9" placeholder="d1ee45ad7d3a7c7c97b102eea8fd9763bb7cf9c9"></label>
+	<label><span>Username:</span><input type="text" name="api_username" value="saran-neem" placeholder="athleticapi"></label>
+	<label><span>Path:</span><input type="text" name="api_path" value="https://store-da8jw5h.mybigcommerce.com/api/v2/" placeholder="https://store-pijlvyhy.mybigcommerce.com/api/v2/"></label>
+	<label><span>Token:</span><input type="text" name="api_token" value="761392f0b806303ee51e7ad721b6cc95a6f79808" placeholder="d1ee45ad7d3a7c7c97b102eea8fd9763bb7cf9c9"></label>
 </div>
 <p><button type="button" class="small right showbutton" data-showelement=".api_connection_info">Edit api connection info</button></p>
 
